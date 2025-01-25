@@ -2,6 +2,19 @@
 3.5 MW Small Scale Hydro Power project by M/S Shiva Energy Resources Pvt. Ltd., Himachal Pradesh
 The proposed project activity with title under UCR “3.5 MW (2X 1.75 MW) Small Scale Hydro Power project by M/S Shiva Energy Resources Pvt. Ltd.”, is a grid connected Hydro Electric Power project located in Shimla district in the state of Himachal Pradesh (India). The project is an operational activity with continuous reduction of GHG, currently registered under “Universal Carbon Registry” (UCR).
 
+Country : India
+
+State : Himachal Pradesh
+
+District : Shimla
+
+Village : Kinnu & Bari
+The project location is situated near village Kinnu and Bari of Shimla district in the state of Himachal 
+Pradesh. The nearest major railway station to the project site is Shimla Railway Station located about 
+196 kms. The Project site is about 28 kms from Shimla-Kinnaur highway Road. 
+
+The geographic coordinate of the project locations is 31°27'47.4"N 77°50'20.5"E.
+
 The project activity aims to harness kinetic energy of water (renewable source) to generate electricity. 
 The net generated electricity from the project activity is sold to state electricity board i.e., Himachal
 Pradesh State Electricity Board (HPSEB) under the Power Purchase Agreement (PPA) signed
